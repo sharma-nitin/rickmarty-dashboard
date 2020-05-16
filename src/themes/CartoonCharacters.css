@@ -1,0 +1,31 @@
+.title {
+  text-align: center;
+  font-size: 35px;
+  color: cadetblue;
+}
+.margin-bottom {
+  margin-bottom: 10px;
+}
+.search,
+.sort {
+  width: inherit;
+  margin: 20px;
+}
+
+.card-container {
+  background-color: slategray;
+}
+.card-title {
+  font-size: 24px;
+  color: white;
+}
+.card-subtitle {
+  font-size: 12px;
+  color: white;
+  margin-top: 0px !important;
+}
+
+.card-value {
+  font-size: 12px;
+  color: yellow;
+}
